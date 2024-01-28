@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @NehaMadne
+- 👋 Hi, I’m Neha Madne
 - 👀 I’m interested in Telecom Software Quality and Assurance Engineering.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently working as a **IT Analyst** for Tata Consultancy Service Ltd.
+- 💞️ I’m looking to collaborate on software Automation and Assurance.
+- 📫 How to reach me: @NehaMadne
+- 😄 Pronouns: She/Her
+
 
 <!---
 NehaMadne/NehaMadne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
